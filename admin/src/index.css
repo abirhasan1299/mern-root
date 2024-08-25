@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
+
+body{
+  padding: 0;
+  margin: 0;
+  font-family: Outfit;
+  box-sizing: border-box;
+  
+}
+a{
+  text-decoration: none;
+  font-weight: 600;
+  color:whitesmoke;
+}
+.form{
+  width: 50%;
+  margin: auto;
+  margin-top: 5%;
+  border:2px dashed grey;
+  padding: 30px;
+}
+.cat{
+  margin-left: 2%;
+  width: 100%;
+}
+.button{
+  width: 120px;
+}
+.nav-item{
+  margin-left:50px;
+}
+.list{
+  margin-top: 3%;
+  padding:20px;
+  width: 70%;
+  margin: auto;
+}
+.tableImage{
+  width: 100px;
+}
+.del:hover{
+  cursor: pointer;
+}
